@@ -29,7 +29,7 @@ Studio and Ads provide individual clips and creative starting points. Finish the
 
 The [public documentation repository](https://github.com/EverygensAI/everygens) expands on workspace choices, editing handoffs, and original creative assignments. Have a question about a guide? [Suggest a correction or explain what was unclear](https://github.com/EverygensAI/everygens/issues).
 
-[Explore the platform editions](https://github.com/EverygensAI/everygens#public-documentation-editions) for additional working guides and original assignments on Bitbucket, GitCode, Gitea, and Launchpad.
+[Explore the platform editions](https://github.com/EverygensAI/everygens#public-documentation-editions) for additional working guides and original assignments on GitLab, Bitbucket, GitCode, Gitea, and Launchpad.
 
 ## 中文导航
 
