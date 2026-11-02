@@ -29,11 +29,15 @@ Studio and Ads provide individual clips and creative starting points. Finish the
 
 The [public documentation repository](https://github.com/EverygensAI/everygens) expands on workspace choices, editing handoffs, and original creative assignments. Have a question about a guide? [Suggest a correction or explain what was unclear](https://github.com/EverygensAI/everygens/issues).
 
+[Explore the platform editions](https://github.com/EverygensAI/everygens#public-documentation-editions) for additional working guides and original assignments on Bitbucket, GitCode, Gitea, and Launchpad.
+
 ## 中文导航
 
 Everygen AI 面向图片、短视频和产品内容创作。你可以从已有照片、文字想法或产品素材出发，选择相应工作区；生成后，在剪辑软件中完成字幕、音轨与整片组接。
 
 [网站首页](https://www.everygens.com/) · [图片创作](https://www.everygens.com/ai-image-generator) · [视频生成](https://www.everygens.com/ai-video-generator) · [短内容 Studio](https://www.everygens.com/everygen-studio) · [产品 Ads](https://www.everygens.com/everygen-ads) · [中文使用介绍](https://github.com/EverygensAI/everygens/blob/main/README.zh-CN.md)
+
+[各平台公开文档](https://github.com/EverygensAI/everygens/blob/main/README.zh-CN.md#各平台公开文档)：按内容侧重点选择工作指南与原创练习。
 
 ## Stay connected
 
